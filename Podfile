@@ -7,8 +7,8 @@ target 'PhDownloader' do
   pod 'RxSwift', '~> 6.5'
   pod 'RxRelay', '~> 6.5'
   
-  pod 'Realm', '~> 10.32', :modular_headers => true
-  pod 'RealmSwift', '~> 10.32'
+  pod 'Realm', '~> 10.41', :modular_headers => true
+  pod 'RealmSwift', '~> 10.41'
   pod 'RxRealm', '~> 5.0'
 
   target 'PhDownloaderTests' do
